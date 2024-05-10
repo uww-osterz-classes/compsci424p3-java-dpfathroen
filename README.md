@@ -4,7 +4,10 @@
 
 ## Your notes for me
 
-*If you have notes or messages for me, please put them here so I can see them.*
+Just in case you missed it, this was the only way I got it to work:
+
+Right click 'src' and then click 'Open in Integrated Terminal'
+Usage: java main/java/compsci424/p3/Program3.java <mode> <path_to_setup_file>")
 
 ## About this repository
 
